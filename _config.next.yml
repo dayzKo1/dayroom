@@ -58,7 +58,7 @@ favicon:
   #android_manifest: /manifest.json
 
 custom_file_path:
-  css: source/css/custom.css
+  style: source/_data/styles.styl
 
 # Custom Logo (Warning: Do not support scheme Mist)
 custom_logo: #/uploads/custom-logo.png
