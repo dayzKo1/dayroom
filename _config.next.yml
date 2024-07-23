@@ -58,7 +58,7 @@ favicon:
   #android_manifest: /manifest.json
 
 custom_file_path:
-  head: source/_data/head.njk
+  # head: source/_data/head.njk
   header: source/_data/header.njk
   #sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
@@ -109,11 +109,11 @@ open_graph:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
-  首页: / || fa fa-home
+  WelcomeToDayRoom: / || fa fa-home
+  TimeMachine: /archives/ || fa fa-archive
+  Tags: /tags/ || fa fa-tags
   # about: /about/ || fa fa-user
-  # tags: /tags/ || fa fa-tags
   # categories: /categories/ || fa fa-th
-  时间: /archives/ || fa fa-archive
   # schedule: /schedule/ || fa fa-calendar
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
@@ -883,7 +883,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto

@@ -109,6 +109,7 @@ search:
   field: post
   content: true
   format: html
+  title: 标题
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
