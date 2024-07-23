@@ -7,6 +7,6 @@ git add .
 git commit -m "update"
 
 # 推送到远程仓库
-git push origin dev
+git push 
 
 yarn deploy
