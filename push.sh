@@ -9,7 +9,4 @@ git commit -m "update"
 # 推送到远程仓库
 git push 
 
-hexo generate 
-
-# 更新gh-pages
-hexo deploy
+yarn deploy
