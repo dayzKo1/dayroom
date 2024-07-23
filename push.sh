@@ -12,3 +12,5 @@ git commit -m "$commit_message"
 
 # 推送到远程仓库
 git push origin dev
+
+yarn deploy
