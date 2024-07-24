@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/21/2024-7-26%20Weekly/</loc>
+    
+    <lastmod>2024-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/07/21/markdown/</loc>
     
     <lastmod>2024-07-24</lastmod>
@@ -19,15 +28,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/21/2024-7-26%20Weekly/</loc>
-    
-    <lastmod>2024-07-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://dayzko1.github.io/dayroom</loc>
@@ -38,14 +38,14 @@
 
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/tags/blog/</loc>
+    <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
     <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
+    <loc>https://dayzko1.github.io/dayroom/tags/weekly/</loc>
     <lastmod>2024-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
