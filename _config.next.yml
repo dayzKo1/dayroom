@@ -109,16 +109,14 @@ open_graph:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
-  WelcomeToDayRoom: / || fa fa-home
-  TimeMachine: /archives/ || fa fa-archive
-  Tags: /tags/ || fa fa-tags
+  房间: / || fa fa-home
+  时光机: /archives/ || fa fa-archive
+  标签: /tags/ || fa fa-tags
   # about: /about/ || fa fa-user
   # categories: /categories/ || fa fa-th
   # schedule: /schedule/ || fa fa-calendar
-  # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
-
-
+  # sitemap: /sitemap.xml || fa fa-sitemap
 
 # Enable / Disable menu icons / item badges.
 menu_settings:

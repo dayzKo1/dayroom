@@ -4,13 +4,15 @@
 
 # Site
 title: dayroom
-subtitle: 'dayzko1'
+subtitle: ''
 description: ''
 keywords: day
 author: hh lin
-language: en
+language: zh-CN
 timezone: ''
 
+sitemap:
+  path: sitemap.xml
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://dayzko1.github.io/dayroom
