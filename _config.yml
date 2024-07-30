@@ -106,12 +106,12 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: next
 
-search:
-  path: search.xml
-  field: post
-  content: true
-  format: html
-  title: 标题
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
+#   format: html
+#   title: 标题
 
 # Security
 encrypt: # hexo-blog-encrypt
@@ -120,7 +120,8 @@ encrypt: # hexo-blog-encrypt
   tags:
   - {name: tips, password: lhh123456}
   - {name: weekly, password: lhh123456}
-  - {name: scripts, password: lhh123456}
+  - {name: script, password: lhh123456}
+
   wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 

@@ -892,12 +892,6 @@ local_search:
   # Preload the search data when the page loads.
   preload: false
 
-search:
-  path: search.xml
-  field: post
-  content: true
-  format: html
-  title: 标题
 
 # ---------------------------------------------------------------
 # Chat Services
