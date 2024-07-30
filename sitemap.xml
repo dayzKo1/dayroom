@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/24/hexo/</loc>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/22/weekly%E6%A8%A1%E6%9D%BF/</loc>
+    
+    <lastmod>2024-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/30/2024-8-2/</loc>
+    
+    <lastmod>2024-07-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/24/hexo%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
     
     <lastmod>2024-07-24</lastmod>
     
@@ -11,25 +29,7 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/21/2024-7-26%20Weekly/</loc>
-    
-    <lastmod>2024-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/24/drafts/</loc>
-    
-    <lastmod>2024-07-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/21/markdown/</loc>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/21/markdown%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
     
     <lastmod>2024-07-24</lastmod>
     
@@ -49,7 +49,7 @@
 
   <url>
     <loc>https://dayzko1.github.io/dayroom</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,14 +57,14 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/weekly/</loc>
-    <lastmod>2024-07-24</lastmod>
+    <lastmod>2024-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
