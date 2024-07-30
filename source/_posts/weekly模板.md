@@ -1,5 +1,5 @@
 ---
-title: 2024-8-2
+title: weekly模板
 # date: 2024-07-30 09:41:00
 tags: 
  - weekly
