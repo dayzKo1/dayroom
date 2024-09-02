@@ -2,9 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-8-30/</loc>
+    
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/08/20/2024-8-23/</loc>
     
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-27/</loc>
+    
+    <lastmod>2024-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-20/</loc>
+    
+    <lastmod>2024-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-13/</loc>
+    
+    <lastmod>2024-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-06/</loc>
+    
+    <lastmod>2024-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +166,7 @@
 
   <url>
     <loc>https://dayzko1.github.io/dayroom</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,28 +174,28 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/weekly/</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/scripts/</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/myself/</loc>
-    <lastmod>2024-08-23</lastmod>
+    <lastmod>2024-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
