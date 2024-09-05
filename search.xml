@@ -204,7 +204,21 @@
   <entry>
     <title>2024-9-06</title>
     <url>/dayroom/2024/08/26/2024-9-06/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="796780c6890431708fff90183687211530d3d0b7aa253cf1e1f057d96c98501f">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb1863e78522b65266914f30434d42c7aaf19a9886c8bab7cf1d2079291a44ef4cf32dd758768b4ce38f398facd2666a37efbad8d40607c419be1fa7ce71c9661bd992b5e93ebe922e63cf2148cf646bbd8f8e1182353ade7c10188e81d5038cb5b803b4656adb0832ea306aaa05689a6a5788b8b03266ef391bbdf237393de08ec02cf068936e6cb69f6b4191d552f827d98454f6441a88fcbce41c92e46d6a34fd968b4a8272e7c8572ca27f0f7fb5bbf73c4268273afbdf2b6f5026e2afd0b4effd0deaf3c87cbdabc8e9f5896d72fde1d3cd407da673a2bbd2c5c8248f09bf93d971859f5efa76efd0153241f04c1401d869994b3fac8c58448b2491ea7b4d69def7ff34eb3a300debfa034dd1c014e2498c1730aef8f44102f29903b6251fe8b3e4a04c224004185e893a9a896cdf90c16c11b159901ffea262a66166be5c80ebf7cb402b4695dd00b5b67da19b0ae736523b7f40b031183c695096a16132e7b1424049ab3a3164b97d852289f55307546a439f580f1a554f9d389965b451b6af4cdf22a38162a5d4562a76ff5cf9a227c4e65382e59eba25b3af3d99144533b64a8da7b5e57e906b09269463b2392c82090d6d1741b263fa485c70003b0dfc664e95ab9f18a92a896f8fb4b08ae3a9eee92549ee09682ceff71251867274163acc78ad95828d99d1ddb7c04a2dcdb38154fc5984889464d8d78672ace6af740ee42b6fd6d279fe2ba84c353c86e0c45e4ccacc4f56774fe87afe2ce698e91447a2beddb8f091e2fda09066f96d31a900e5b1a6b62607e54bdd56a7e1951f33b50991b1745f542c19e177dfeafdca2a65ff00a73adcdf1f36c24905acb436fe89a77f5f4dee02ca1327c8fce95f10a</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
   </entry>
   <entry>
     <title>2024-9-13</title>
