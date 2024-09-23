@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/22/SomeGoats/</loc>
+    
+    <lastmod>2024-09-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-06/</loc>
     
     <lastmod>2024-09-05</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://dayzko1.github.io/dayroom/2024/08/26/2024-9-13/</loc>
     
     <lastmod>2024-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/08/22/SomeGoats/</loc>
-    
-    <lastmod>2024-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -119,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/30/%E8%A7%86%E9%A2%91%E8%84%9A%E6%9C%AC/</loc>
-    
-    <lastmod>2024-07-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/07/22/weekly%E6%A8%A1%E6%9D%BF/</loc>
     
     <lastmod>2024-07-30</lastmod>
@@ -181,13 +172,6 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
-    <lastmod>2024-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/tags/scripts/</loc>
     <lastmod>2024-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
