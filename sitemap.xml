@@ -2,7 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/09/27/2024-9-27/</loc>
+    
+    <lastmod>2024-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/08/22/A-SomeGoats/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/11/01/2024-11-01/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/10/25/2024-10-25/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/11/18/2024-10-18/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/10/11/2024-10-11/</loc>
     
     <lastmod>2024-09-23</lastmod>
     
@@ -74,51 +119,6 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/09/27/2024-9-27/</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/10/11/2024-10-11/</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/11/18/2024-10-18/</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/10/25/2024-10-25/</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/08/22/SomeGoats/</loc>
-    
-    <lastmod>2024-09-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dayzko1.github.io/dayroom/2024/08/09/2024-8-9/</loc>
     
     <lastmod>2024-08-09</lastmod>
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/22/weekly%E6%A8%A1%E6%9D%BF/</loc>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/22/B-weekly%E6%A8%A1%E6%9D%BF/</loc>
     
     <lastmod>2024-07-30</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/24/hexo%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/24/B-hexo%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
     
     <lastmod>2024-07-24</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/07/21/markdown%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
+    <loc>https://dayzko1.github.io/dayroom/2024/07/21/B-markdown%E9%80%9F%E6%9F%A5%E8%A1%A8/</loc>
     
     <lastmod>2024-07-24</lastmod>
     
@@ -166,7 +166,7 @@
 
   <url>
     <loc>https://dayzko1.github.io/dayroom</loc>
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2024-09-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,21 +174,21 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/weekly/</loc>
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/myself/</loc>
-    <lastmod>2024-09-23</lastmod>
+    <lastmod>2024-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
