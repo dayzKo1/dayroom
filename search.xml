@@ -174,22 +174,29 @@
   <entry>
     <title>weekly 2024-10-11</title>
     <url>/dayroom/2024/10/11/2024-10-11/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>1、昆明经济运行监测领导驾驶舱大屏指标分析整改<br>2、长乐惠企二期pc端首页开发<br>3、帮扶h5党组织添加&#x2F;修改开发<br>4、黑龙江政策数据驾驶舱大屏全模块整改</p>
+]]></content>
   </entry>
   <entry>
     <title>weekly 2024-11-18</title>
     <url>/dayroom/2024/11/18/2024-10-18/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>1、黑龙江政策数据驾驶舱大屏全模块整改<br>2、长乐惠企二期pc端开发、项目申报、免申即享、惠企政策、政策解读、企业金融列表详情联调</p>
+<p>1、黑龙江政策数据驾驶舱大屏全模块整改<br>2、长乐惠企二期pc端开发</p>
+]]></content>
   </entry>
   <entry>
     <title>weekly 2024-10-25</title>
     <url>/dayroom/2024/10/25/2024-10-25/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>1、金服云大屏生产政策专项数据异常问题排查、修复更新线上<br>2、长乐惠企二期pc端，首页排版优化、用户信息、修改密码、企业信息、合作机构、企业画像、惠企资金公示、政策推荐、订阅标签、政策收藏模块开发、联调，修复测试bug</p>
+<p>1、黑龙江政策数据驾驶舱大屏各模块图表根据ui调整、新增需求开发、图表接口联调<br>2、长乐惠企二期pc端开发、联调、修复bug</p>
+]]></content>
   </entry>
   <entry>
     <title>weekly 2024-11-1</title>
     <url>/dayroom/2024/11/01/2024-11-01/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>1、长乐惠企二期PC端修复测试bug<br>2、长乐惠企二期后管企业空间优化<br>3、黑龙江后管政策搜索模块标签对比优化<br>4、黑龙江大屏模块重构、简化代码、联调接口、图表按新版UI整改。<br>5、帮扶党建模块开发、联调、修复测试bug、上线生产<br>6、帮扶招聘需求评审</p>
+<p>1、黑龙江大屏开发<br>2、长乐惠企二期PC端开发<br>3、帮扶招聘需求开发</p>
+]]></content>
   </entry>
   <entry>
     <title>SomeGoats</title>
@@ -266,5 +273,12 @@
       <tags>
         <tag>weekly</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>weekly 2024-11-1</title>
+    <url>/dayroom/2024/11/01/2024-11-08/</url>
+    <content><![CDATA[<p>1、黑龙江大屏开发、修复测试bug、上线更新生产<br>2、长乐惠企二期PC端修复测试bug<br>3、三资大屏资产管理、产权交易模块按照新分辨率调整图表和样式。<br>4、帮扶小程序测试环境党建模块问题排查</p>
+<p>1、帮扶小程序招聘需求开发<br>2、长乐惠企二期PC端开发</p>
+]]></content>
   </entry>
 </search>
