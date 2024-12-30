@@ -133,3 +133,10 @@ deploy:
   repo: https://github.com/dayzKo1/dayroom
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+# Directory Category settings
+directory_category:
+  enable: true
+  # 其他配置项可以根据需要添加
+
+  

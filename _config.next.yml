@@ -112,8 +112,8 @@ menu:
   房间: / || fa fa-home
   时光机: /archives/ || fa fa-archive
   标签: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
   # about: /about/ || fa fa-user
-  # categories: /categories/ || fa fa-th
   # schedule: /schedule/ || fa fa-calendar
   # commonweal: /404/ || fa fa-heartbeat
   # sitemap: /sitemap.xml || fa fa-sitemap
@@ -947,3 +947,4 @@ vendors:
 css: css
 js: js
 images: images
+
