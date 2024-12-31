@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/2024/12/13/daily/cook/</loc>
+    
+    <lastmod>2024-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/2025/01/03/2025%20weekly/2025-1-3/</loc>
+    
+    <lastmod>2024-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/categories/index.html</loc>
     
     <lastmod>2024-12-30</lastmod>
     
@@ -39,15 +57,6 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/2024/12/13/issues/build%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2024-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/2024/12/13/daily/cook/</loc>
     
     <lastmod>2024-12-16</lastmod>
     
@@ -327,6 +336,13 @@
   </url>
   
   <url>
+    <loc>https://dayzko1.github.io/dayroom/categories/2025-weekly/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://dayzko1.github.io/dayroom/categories/issues/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,13 +351,6 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/tool/</loc>
-    <lastmod>2024-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dayzko1.github.io/dayroom/categories/2025/</loc>
     <lastmod>2024-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
