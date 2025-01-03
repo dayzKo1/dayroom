@@ -466,7 +466,7 @@
     <title>weekly 2025-1-3</title>
     <url>/dayroom/2025/01/03/2025%20weekly/2025-1-3/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="0d8938fa9c649f67c8bb1c66c5a6f5f01935f07b938d70843b16e3b846a7965c">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f7d2838a7070e0c5d61f49b6d2623fbed58d145858896a6f075be3e539d0b5b2f6fdfed00026bcc9d74f5a85087e26a9075dfe95aab1e18b1a4299924284607807799ad428e279504c7d165ce7e2d9ee70e61276173bc7aa0642e6c4df0d2980aa842861d5d76f40c2bbf15f49a8cc66599bc39208fc0471be2d5f9e47ab69ade703c7fad0f327076ff9d94a11d3638c19a2e2d6d30d58531c8ec4621267bd0c004ccb9c07236edd9481b17a39827cefa4b64b33ac54609d062dfc6f2c75c3ca71607751e94c404392e8c2f2a216f6edf45e0df22d27a89b31475ed314710025c96c56763fc55f51d644467d2852fce1186942e9720bd793897c672825ef42b439bb5ad9e421120b5e644a6452f94ead627b2ba4de2027fd5cee1903b316c857de80e2c17c76721ca0fffa7df1c4cb0f04f66dfa12b05ed9bc0037b69e7e9a10b8</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="4c082d9a28d484843b2a786291389d1812365b29cca45cf46e9f9f5debe2ec61">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f7c377dd219ee80ef450c7306135701ada99aa746cb277370a871aa9b9598f0e9da20bbaf8461823676b07e72869eb594b6567c1cfb0c1e19ebd6ba678058ae50672137f0e2ff69a1872f83e68130ba1b87bb399fd1983006884966c4270151a0c141192b5efb57f3a3878e91d8e5a9c2665796272d1bdd1148404dd6ec8b8cdffb58410b1dbd4716d307b33d41a105aa17d5363b8121e815bf09f65e29dc5f1d64002bd57ab63572fcf0aa4a09f7751c74b009aea8ba7210c0bddb9fbd2e6e10da38c82d4ebe6616c46088ed6cdd31749cb7dd1658e1fe6effb2eb666343d339641e1036102593f9b0413fdf409f8991fe33e9959e390b601128f42efe58284e750b4eea9e6d7a65a41a7b7b23e9c81def7219059fa7f46f6b7f13032b239cc8716ff6b4b3cc63f4ceec3c2e73f2a717153b972b36bdc60121c85815e76b9fe713ecf4489a42758cb4ba722a79bd223f63e0ba97c5ca2b79cfe7bca81f8b56158f011d8391d76c42d39971106858114864f5481c16bdf6f9861aa431d29eff29272b9760b7657ba9a307939a803394412</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -561,7 +561,8 @@
   <entry>
     <title>cook</title>
     <url>/dayroom/2024/12/13/daily/cook/</url>
-    <content><![CDATA[<p>炒菜<br>1、葱姜蒜洗净后切末，干辣椒切段，无论炒什么菜，用这4种小料爆锅，味道就会非常香。小碗里加入适量生抽、蚝油，比例是2:1，再加一小勺白胡椒粉，倒入清水搅拌均匀。</p>
+    <content><![CDATA[<p>腌制<br>1、味精盐料酒生抽蚝油生粉</p>
+<p>炒菜<br>1、<br>葱姜蒜洗净后切末，干辣椒切段，油热爆锅<br>生抽蚝油2:1，一小勺胡椒粉，倒入清水搅拌均匀</p>
 <p>炖汤<br>1、</p>
 <p>蘸料<br>1、</p>
 ]]></content>
@@ -572,11 +573,11 @@
   <entry>
     <title>build问题</title>
     <url>/dayroom/2024/12/13/issues/build%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>1、解决ReferenceError: primordials is not defined问题<br><a href="https://blog.csdn.net/qiqi_zhangzz/article/details/106599233">https://blog.csdn.net/qiqi_zhangzz/article/details/106599233</a></p>
+    <content><![CDATA[<h2 id="1、解决ReferenceError-primordials-is-not-defined问题"><a href="#1、解决ReferenceError-primordials-is-not-defined问题" class="headerlink" title="1、解决ReferenceError: primordials is not defined问题"></a>1、解决ReferenceError: primordials is not defined问题</h2><p><a href="https://blog.csdn.net/qiqi_zhangzz/article/details/106599233">https://blog.csdn.net/qiqi_zhangzz/article/details/106599233</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">新建npm-shrinkwrap.json文件</span><br><span class="line">添加：</span><br><span class="line">&#123;</span><br><span class="line">  &quot;dependencies&quot;: &#123;</span><br><span class="line">    &quot;graceful-fs&quot;: &#123;</span><br><span class="line">      &quot;version&quot;: &quot;4.2.3&quot;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<p>2、</p>
-]]></content>
+<h2 id="2、vue生产环境打包产物-BASE-URL"><a href="#2、vue生产环境打包产物-BASE-URL" class="headerlink" title="2、vue生产环境打包产物  BASE_URL"></a>2、vue生产环境打包产物  BASE_URL</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;script src=&quot;&lt;%= BASE_URL %&gt;pdfjs/pdf.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  pdfjsLib.GlobalWorkerOptions.workerSrc = &#x27;&lt;%= BASE_URL %&gt;pdfjs/pdf.worker.js&#x27;;</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="3、"><a href="#3、" class="headerlink" title="3、"></a>3、</h2>]]></content>
       <categories>
         <category>issues</category>
       </categories>
@@ -642,6 +643,28 @@
 <script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>tool</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-1-10</title>
+    <url>/dayroom/2025/01/10/2025%20weekly/2025-1-10/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4c082d9a28d484843b2a786291389d1812365b29cca45cf46e9f9f5debe2ec61">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f7c377dd219ee80ef450c7306135701ada99aa746cb277370a871aa9b9598f0e9da20bbaf8461823676b07e72869eb594b6567c1cfb0c1e19ebd6ba678058ae50672137f0e2ff69a1872f83e68130ba1b87bb399fd1983006884966c4270151a0c141192b5efb57f3a3878e91d8e5a9c2665796272d1bdd1148404dd6ec8b8cdffb58410b1dbd4716d307b33d41a105aa17d5363b8121e815bf09f65e29dc5f1d64002bd57ab63572fcf0aa4a09f7751c74b009aea8ba7210c0bddb9fbd2e6e10da38c82d4ebe6616c46088ed6cdd31749cb7dd1658e1fe6effb2eb666343d339641e1036102593f9b0413fdf409f8991fe33e9959e390b601128f42efe58284e750b4eea9e6d7a65a41a7b7b23e9c81def7219059fa7f46f6b7f13032b239cc8716ff6b4b3cc63f4ceec3c2e73f2a717153b972b36bdc60121c85815e76b9fe713ecf4489a42758cb4ba722a79bd223f63e0ba97c5ca2b79cfe7bca81f8b56158f011d8391d76c42d39971106858114864f5481c16bdf6f9861aa431d29eff29272b9760b7657ba9a307939a803394412</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
       </categories>
       <tags>
         <tag>weekly</tag>
