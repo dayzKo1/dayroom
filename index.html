@@ -231,7 +231,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-12-31 11:31:03" itemprop="dateModified" datetime="2024-12-31T11:31:03+08:00">2024-12-31</time>
+      <time title="修改时间：2025-01-03 15:37:00" itemprop="dateModified" datetime="2025-01-03T15:37:00+08:00">2025-01-03</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -250,7 +250,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>114</span>
+      <span>26</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -330,15 +330,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2025-01-03 12:00:00" itemprop="dateCreated datePublished" datetime="2025-01-03T12:00:00+08:00">2025-01-03</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-12-31 09:07:37" itemprop="dateModified" datetime="2024-12-31T09:07:37+08:00">2024-12-31</time>
+      <time title="创建时间：2025-01-03 12:00:00 / 修改时间：15:32:05" itemprop="dateCreated datePublished" datetime="2025-01-03T12:00:00+08:00">2025-01-03</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -357,7 +351,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>114</span>
+      <span>170</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -869,7 +863,7 @@
         <i class="far fa-calendar-check"></i>
       </span>
       <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2024-12-31 15:18:10" itemprop="dateModified" datetime="2024-12-31T15:18:10+08:00">2024-12-31</time>
+      <time title="修改时间：2025-01-02 09:34:00" itemprop="dateModified" datetime="2025-01-02T09:34:00+08:00">2025-01-02</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -888,7 +882,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>483</span>
+      <span>491</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -909,7 +903,7 @@
           <h2 id="1、解决ReferenceError-primordials-is-not-defined问题"><a href="#1、解决ReferenceError-primordials-is-not-defined问题" class="headerlink" title="1、解决ReferenceError: primordials is not defined问题"></a>1、解决ReferenceError: primordials is not defined问题</h2><p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qiqi_zhangzz/article/details/106599233">https://blog.csdn.net/qiqi_zhangzz/article/details/106599233</a></p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">新建npm-shrinkwrap.json文件</span><br><span class="line">添加：</span><br><span class="line">&#123;</span><br><span class="line">  &quot;dependencies&quot;: &#123;</span><br><span class="line">    &quot;graceful-fs&quot;: &#123;</span><br><span class="line">      &quot;version&quot;: &quot;4.2.3&quot;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="2、vue生产环境打包产物-BASE-URL"><a href="#2、vue生产环境打包产物-BASE-URL" class="headerlink" title="2、vue生产环境打包产物  BASE_URL"></a>2、vue生产环境打包产物  BASE_URL</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;script src=&quot;&lt;%= BASE_URL %&gt;pdfjs/pdf.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  pdfjsLib.GlobalWorkerOptions.workerSrc = &#x27;&lt;%= BASE_URL %&gt;pdfjs/pdf.worker.js&#x27;;</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+<h2 id="2、vue生产环境打包产物静态资源路径问题-BASE-URL"><a href="#2、vue生产环境打包产物静态资源路径问题-BASE-URL" class="headerlink" title="2、vue生产环境打包产物静态资源路径问题 BASE_URL"></a>2、vue生产环境打包产物静态资源路径问题 BASE_URL</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;script src=&quot;&lt;%= BASE_URL %&gt;pdfjs/pdf.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  pdfjsLib.GlobalWorkerOptions.workerSrc = &#x27;&lt;%= BASE_URL %&gt;pdfjs/pdf.worker.js&#x27;;</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
 <h2 id="3、"><a href="#3、" class="headerlink" title="3、"></a>3、</h2>
       
     </div>
@@ -1248,7 +1242,7 @@
 
   <div class="copyright">
     &copy; 
-    <span itemprop="copyrightYear">2024</span>
+    <span itemprop="copyrightYear">2025</span>
     <span class="with-love">
       <i class="fa fa-heart"></i>
     </span>
