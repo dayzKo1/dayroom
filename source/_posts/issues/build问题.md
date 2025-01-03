@@ -19,7 +19,7 @@ https://blog.csdn.net/qiqi_zhangzz/article/details/106599233
 }
 ```
 
-## 2、vue生产环境打包产物  BASE_URL
+## 2、vue生产环境打包产物静态资源路径问题 BASE_URL
 ```
     <script src="<%= BASE_URL %>pdfjs/pdf.js"></script>
     <script>
