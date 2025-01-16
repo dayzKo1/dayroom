@@ -4,7 +4,25 @@
   <url>
     <loc>https://dayzko1.github.io/dayroom/2025/01/10/2025%20weekly/2025-1-10/</loc>
     
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2025/01/10/2025%20weekly/2025-1-17/</loc>
+    
+    <lastmod>2025-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dayzko1.github.io/dayroom/2025/01/10/2025%20weekly/2025-1-24/</loc>
+    
+    <lastmod>2025-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -301,7 +319,7 @@
 
   <url>
     <loc>https://dayzko1.github.io/dayroom</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -309,14 +327,14 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/weekly/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/tags/tips/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -325,42 +343,42 @@
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/2024-weekly/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/code/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/daily/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/2025-weekly/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/issues/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dayzko1.github.io/dayroom/categories/tool/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2025-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
