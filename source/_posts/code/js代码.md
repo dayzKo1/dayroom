@@ -37,13 +37,6 @@ const arr = [ 0, 1, false, 2, '', 3 ];
 const cleanedArray = arr.filter(Boolean);
 ```
 
-# 5、清理数组
-```
-const arr = [ 0, 1, false, 2, '', 3 ];
-
-const cleanedArray = arr.filter(Boolean);
-```
-
 # 6、将 NodeList 转换为数组
 ```
 const nodesArray = [ ...document.querySelectorAll('div') ];
