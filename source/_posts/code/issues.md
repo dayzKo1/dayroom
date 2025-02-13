@@ -53,3 +53,6 @@ source ~/.bashrc && env
 npm install node-sass@npm:dart-sass -D
 yarn add node-sass@yarn:dart-sass -D
 ```
+
+5、
+------------------------------------------------------
