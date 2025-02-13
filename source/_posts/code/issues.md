@@ -1,7 +1,7 @@
 
 ---
 
-title: build问题
+title: 常见问题
 date: 2024-12-13 12:00:00
 tags:
   - code
@@ -41,5 +41,15 @@ tags:
 data() {} 
 
 ```
-4、
+4、node-sass 
 ------------------------------------------------------
+```
+npm i -g mirror-config-china --registry=https://registry.npmmirror.com
+# 查看npm配置
+npm config list
+# 查看环境变量
+source ~/.bashrc && env
+
+npm install node-sass@npm:dart-sass -D
+yarn add node-sass@yarn:dart-sass -D
+```
