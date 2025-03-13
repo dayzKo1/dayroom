@@ -489,7 +489,7 @@
     <url>/dayroom/2024/11/29/code/css%E4%BB%A3%E7%A0%81/</url>
     <content><![CDATA[<p><a href="https://mp.weixin.qq.com/s/ImOAMOKiNVgFWfPQvzSUZw">https://mp.weixin.qq.com/s/ImOAMOKiNVgFWfPQvzSUZw</a></p>
 <h1 id="1、aspect-ratio"><a href="#1、aspect-ratio" class="headerlink" title="1、aspect-ratio"></a>1、aspect-ratio</h1><h1 id="2、object-fit"><a href="#2、object-fit" class="headerlink" title="2、object-fit"></a>2、object-fit</h1><h1 id="3、margin-inline"><a href="#3、margin-inline" class="headerlink" title="3、margin-inline"></a>3、margin-inline</h1><h1 id="4、text-underline-offset"><a href="#4、text-underline-offset" class="headerlink" title="4、text-underline-offset"></a>4、text-underline-offset</h1><h1 id="5、outline-offset"><a href="#5、outline-offset" class="headerlink" title="5、outline-offset"></a>5、outline-offset</h1><h1 id="6、scroll-margin-top-bottom"><a href="#6、scroll-margin-top-bottom" class="headerlink" title="6、scroll-margin-top&#x2F;bottom"></a>6、scroll-margin-top&#x2F;bottom</h1><h1 id="7、color-scheme"><a href="#7、color-scheme" class="headerlink" title="7、color-scheme"></a>7、color-scheme</h1><p>·</p>
-<h1 id="8、accent-color"><a href="#8、accent-color" class="headerlink" title="8、accent-color"></a>8、accent-color</h1><h1 id="9、width-fit-content"><a href="#9、width-fit-content" class="headerlink" title="9、width: fit-content"></a>9、width: fit-content</h1><h1 id="10、overscroll-behavior"><a href="#10、overscroll-behavior" class="headerlink" title="10、overscroll-behavior"></a>10、overscroll-behavior</h1><h1 id="11、text-wrap"><a href="#11、text-wrap" class="headerlink" title="11、text-wrap"></a>11、text-wrap</h1><h1 id="12、scrollbar-gutter"><a href="#12、scrollbar-gutter" class="headerlink" title="12、scrollbar-gutter"></a>12、scrollbar-gutter</h1>]]></content>
+<h1 id="8、accent-color"><a href="#8、accent-color" class="headerlink" title="8、accent-color"></a>8、accent-color</h1><h1 id="9、width-fit-content"><a href="#9、width-fit-content" class="headerlink" title="9、width: fit-content"></a>9、width: fit-content</h1><h1 id="10、overscroll-behavior"><a href="#10、overscroll-behavior" class="headerlink" title="10、overscroll-behavior"></a>10、overscroll-behavior</h1><h1 id="11、text-wrap"><a href="#11、text-wrap" class="headerlink" title="11、text-wrap"></a>11、text-wrap</h1><h1 id="12、scrollbar-gutter"><a href="#12、scrollbar-gutter" class="headerlink" title="12、scrollbar-gutter"></a>12、scrollbar-gutter</h1><h1 id="13、flex"><a href="#13、flex" class="headerlink" title="13、flex"></a>13、flex</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">order默认为0，从小到大排序,</span><br><span class="line"></span><br><span class="line">align-self 应用于单个项目的另一个属性</span><br><span class="line"></span><br><span class="line">algin-content 调行间距</span><br><span class="line"></span><br><span class="line">flex-flow  flex-direction 和 flex-wrap 这两个属性经常一起使用，因此创建了简写属性 flex-flow 来组合它们</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>code</category>
       </categories>
@@ -506,8 +506,6 @@
 <h1 id="4、合并对象"><a href="#4、合并对象" class="headerlink" title="4、合并对象"></a>4、合并对象</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const obj1 = &#123; name: &#x27;张三&#x27; &#125;;</span><br><span class="line">const obj2 = &#123; age: 22 &#125;;</span><br><span class="line"></span><br><span class="line">const mergedObj = &#123; ...obj1, ...obj2 &#125;;</span><br></pre></td></tr></table></figure>
 
 <h1 id="5、清理数组"><a href="#5、清理数组" class="headerlink" title="5、清理数组"></a>5、清理数组</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const arr = [ 0, 1, false, 2, &#x27;&#x27;, 3 ];</span><br><span class="line"></span><br><span class="line">const cleanedArray = arr.filter(Boolean);</span><br></pre></td></tr></table></figure>
-
-<h1 id="5、清理数组-1"><a href="#5、清理数组-1" class="headerlink" title="5、清理数组"></a>5、清理数组</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const arr = [ 0, 1, false, 2, &#x27;&#x27;, 3 ];</span><br><span class="line"></span><br><span class="line">const cleanedArray = arr.filter(Boolean);</span><br></pre></td></tr></table></figure>
 
 <h1 id="6、将-NodeList-转换为数组"><a href="#6、将-NodeList-转换为数组" class="headerlink" title="6、将 NodeList 转换为数组"></a>6、将 NodeList 转换为数组</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const nodesArray = [ ...document.querySelectorAll(&#x27;div&#x27;) ];</span><br></pre></td></tr></table></figure>
 
@@ -561,25 +559,9 @@
   <entry>
     <title>cook</title>
     <url>/dayroom/2024/12/13/daily/cook/</url>
-    <content><![CDATA[<p>腌制<br>1、味精盐料酒生抽蚝油生粉</p>
-<p>炒菜<br>1、<br>葱姜蒜洗净后切末，干辣椒切段，油热爆锅<br>生抽蚝油2:1，一小勺胡椒粉，倒入清水搅拌均匀</p>
-<p>炖汤<br>1、</p>
-<p>蘸料<br>1、</p>
-]]></content>
+    <content><![CDATA[]]></content>
       <categories>
         <category>daily</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>build问题</title>
-    <url>/dayroom/2024/12/13/issues/build%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p><a href="https://blog.csdn.net/qiqi_zhangzz/article/details/106599233">https://blog.csdn.net/qiqi_zhangzz/article/details/106599233</a></p>
-<h2 id="1、解决ReferenceError-primordials-is-not-defined问题"><a href="#1、解决ReferenceError-primordials-is-not-defined问题" class="headerlink" title="1、解决ReferenceError: primordials is not defined问题"></a>1、解决ReferenceError: primordials is not defined问题</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1️⃣新建npm-shrinkwrap.json文件</span><br><span class="line">添加：</span><br><span class="line">&#123;</span><br><span class="line">  &quot;dependencies&quot;: &#123;</span><br><span class="line">    &quot;graceful-fs&quot;: &#123;</span><br><span class="line">      &quot;version&quot;: &quot;4.2.3&quot;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line">2️⃣删除node_modules文件夹 </span><br><span class="line">3️⃣npm i</span><br></pre></td></tr></table></figure>
-
-<h2 id="2、vue生产环境打包产物静态资源路径问题-BASE-URL"><a href="#2、vue生产环境打包产物静态资源路径问题-BASE-URL" class="headerlink" title="2、vue生产环境打包产物静态资源路径问题 BASE_URL"></a>2、vue生产环境打包产物静态资源路径问题 BASE_URL</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;script src=&quot;&lt;%= BASE_URL %&gt;pdfjs/pdf.js&quot;&gt;&lt;/script&gt;</span><br><span class="line">&lt;script&gt;</span><br><span class="line">  pdfjsLib.GlobalWorkerOptions.workerSrc = &#x27;&lt;%= BASE_URL %&gt;pdfjs/pdf.worker.js&#x27;;</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
-<h2 id="3、"><a href="#3、" class="headerlink" title="3、"></a>3、</h2>]]></content>
-      <categories>
-        <category>issues</category>
       </categories>
   </entry>
   <entry>
@@ -674,7 +656,7 @@
     <title>weekly 2025-1-10</title>
     <url>/dayroom/2025/01/10/2025%20weekly/2025-1-17/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="9280dbb7c3671546f1995ae394c22fa916f62926a57ecf839115ec4b3a81b798">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb120d73fc91bf5feb16a1bb0817dfde1b72a1c7b09b6812bebab6058cea7995a0d8bed36e23d8c7b1f4b06b14c27d19743f5b26fa71d6ce2c285bdddb0836c9713b0839a640b4f4c7a629f38bd97d2dde9dc387a1fdf937fca25906560171fdcbc2c212bbc43b831a58177dbfd6a8b5bb2a73c45d7f871ad904dd6ca2d411457b4446f9ca97f91dc7d7e34eebc5753980904e6214d254416a517862004d28a144f94995c38a29aae7387c5bd8ccc3d0979d843979b935e54d02ef3e03ad3ad5856fb711aa360d97173891a6be9824efd79784ac675f010d5e28b3bb409decdecf36f382b83aad078541e69a2ff4b9ce794a389af49c21fab6a5217aafd6fe4dffaa4024ed673551e16734f180a2bc2b349f49147764c65285634639964a69e8e6429e34af32d48744ec68e4423ded607fc18615caeaeb302101e663d6bb01a5bb48d3a5ae186ce0482f1a8281c266b1b6b25d50ebc710e45d09e4cd8387e3292eb3b224d9a707a317a17cf97a2cece464ce2f3894ad5e99c6cddfee3d22e6f7096</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="4de07c196beece0a7b069c74eee56125f380d083636f7e3807e6e49c9675a8b7">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb120d73fc91bf5feb16a1bb0817dfde1b72a1c7b09b6812bebab6058cea7995a0d8bed36e23d8c7b1f4b06b14c27d19743610322491697732d976f0258c7eb3edb566fb063fdd4abdc4665764c808be35de32984c71e3829a4b7a9c0279e7205dbb932ac04de952b206d0a4f93ac7df6f4fbfc9b80a16c54b052eba3e6076fbe4980af41115ec4e3569b826a647d5fa0c8413762cf1541873cfd721b83e5b42ac02b88e9e8391bd5f521523fe80a14e2ef053ddcba183b949b31d08c1077bf8fc3431b3396c599535f3f34e4b50be5503dc48753b11f0e9f61b0de6da613f4b7d97644217eee6e148e2ad86cb57d587abeefbef4e7788a6cfe27e9e2cc7f17230a430754105d152df47dace8075d0027d425dea03a6f47a35f0bca78d64db1ca83b0ba7985ca59c4bf62c7ede38ba96208cb37af1c3f695934654e1b6c72b3b14381b3cc8882c556a1ab353d58e5fcb5e4250152d6382ea12465b9de5cba27fe874e160b3572d9a5dbb140551bf677087010b2eded60d67d53924ad4aaebf77bea7747d55b31d9e9a862e348cbd3ea55ce971a4291983312f2db2af600f1dadb69cb80dbd6c5c490add5e8a893ccc6467decb85afe03cd199ba736b40884da14e048b246db2ababf3df6552708788a026e86d3666c1609bc4df4de84bc719b3bb99b4fae4768b31d93e8c705dc65814fde9168fe690bdbdafeda9506be40e28ffaeea8f25160fbb23eb1221d77677b9c392eba084ce066bbed9c8fd8cb3467efe81c22ac32f2dfb0384b3d7b6df537750d</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -696,7 +678,7 @@
     <title>weekly 2025-1-10</title>
     <url>/dayroom/2025/01/10/2025%20weekly/2025-1-24/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="70ef46d6807d4186a089c651f8d1d3a97de414871f023005902b3e2267b117c5">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb17c48d410e96d7bc586f9d81f3f29afb9c7475b9354195e136b32d2a39570e6ee0d27a2c8bb361a2c80f02b38f73d09439e464d1a76f01475d09c496db5948a44e64f82b9df1e7e264e1b48996cc6e5bcf34b317a64c337206b505fce0be7181fdc70496523348d7f41057b05389f414f7b3170b90279b126720c95a929c0d0d4b1a73aa2cd5978b59e23dd6a5c7f6dbbfee79b76b96c5726a1f0cd31531e383890713431de4ac316ebd24afc282669303ec1564fea1629072536dac245f717b83568a9616163a538931d47dd20ee8e694a5f10c39cdc5f8948def82fd97f55238e1098e5aeb6bb9507833c39436f1e87</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="fc75b75875906f3ec8e1cd20fdcb37cc6df079ac0ed46bbc50a860540525edf4">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb17c48d410e96d7bc586f9d81f3f29afb9c7475b9354195e136b32d2a39570e6ee0d27a2c8bb361a2c80f02b38f73d09439e464d1a76f01475d09c496db5948a44e64f82b9df1e7e264e1b48996cc6e5bc1692992a5dba75fce30db0608af2b8508dfab5448fdb25a12c448cf2e30e248d3154215ab5dacd26586c1054f439ac7b0865f5277ab34809073b44b35604aba207482226dab6a113546d357e357e0f46475a399b05b4efd7bff455b85878b75151ba43435c872d530296e48325bc5b9d62394de22693d1f2c293368bf66393be446c9f7de201e5489d42c9a0f88ae34a1a0df98732556cb07c1d98d7ed00609e805291b9ddaf87ab2430a9af4bfce553b4704b298dc0e60410ca1b027a100b66da6fdd786bfcbe13de18b03f57e2b74cb30385a7990ca87034a48e4045a91ecedab9fb2d828d8e3f7c3d9127d4566c897227306ba8227f16f42965bd6e57cf75e44f34959f28e482090834896866ab908bcc2b77a6bc319576968bfaa6d5cc1a709519aa7cacff073ef2184c11e9935141cd8690da4748324a9cb5c8534d83241ca9c1fb4ad6a719f962099286b8e261e48c1f018c34f322397b01957284a9b47edba1eef2b411c567f42872cf318ff3e97bb8bda1e1f686e6dd5ca980924638e4f977afa30e2b3dcec510295be4aa3175289500d341bedf50d0c4e8655f087b236b4e89c727dc6f14f9545fd8eb317d</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -709,6 +691,344 @@
 <script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-1-14</title>
+    <url>/dayroom/2025/01/14/2025%20weekly/2025-2-14/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="a4a89336c3ebbf0ab02146468ec3d160bb8cd5869d8703744a491c599f888339">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb17c48d410e96d7bc586f9d81f3f29afb9c6c16bb6045e1a5f81d20740ea132081d008ff942ca92e2a97da40433452b32643ee27ae513d95113db9b3d2cf7104a0303b2f50be3f1e599bbade25808869214a5028457a675ae11bd5d3ebc8a7c3410fc0c5ccdb0599308402ce11153b7cb0d334cae4bf640c2047d045f09c7a675790740da2951228a8d6e5885d19076c4ad646919aceb4e3bad2a59df4b089274a94446fa550a92ffc86942455eafdec5c27285b4577035f12dfdc8ed77d1925a1fff801a982cbe61bb09ab89691a359ecc048681ef05741cb1f35098161b38766e0836f0ae9af8d50e32a2d34084344308d5053d13da3557617631605b0398ffa663e46c783b34dfaee7302904ffc2479e540adfcfae9ab40584d24f4027a1e51e1147b977044f37f4f9cc0477a462dc5815c8bf70b97ffdf044294397447ed02dcf828c9f0659c25681777cb93452d7eed88548b146b31117c66e6add2b4a3346d5efcda72e4a4bf5b846cd9bbedb03e1fdf7a8050cfa16b99e99626d9b298bc2325cee5793eb3ec3104a2dc638d4885a87545e0998f9fdd96ef91a4e67015b546858522d004b1f3b119f280c13714065ae8809ca4c2818ed1b4ddefcdc06751f2d21467c851412f32ff970a3fbb9119f672e2c836bc7a38feaa222685689dbbe0ab54a5abc59908e971c0e13c1cbfe025cb945abebc7c529f64e41956b8047e5cefd0b1bfd9b5e9adb15937232a67e54e6dee31fdcb15b5119783613ff038970f077f4aa19110589ab19a81f92f2ada78f8a358770345d97bb985b1542503b59f4e66108f41facfe314358d5ed7eb45</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-2-21</title>
+    <url>/dayroom/2025/02/21/2025%20weekly/2025-2-21/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="c9970b8ac0f7fcddf84f07622042ba3fe996e35c0fe020298252c8ddd83a176a">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f790f368f4b0fdc558117b93433d1637d1819544d66305a95b6f355f6d9a18494b819293f4952d5cb56b4736efed7afd9f466891c7a0edaad7a8f867c9b953f2aa86cc166960d91e8e49f55e576f668f7b470a57deb17a88788609b10fa61ed2ec0fefac45b2b9a4e5820e2efa1a6779de3fa5de6685a876a0e68740995bf95c013e8ed332c847f229a20d31c0ea80959ccf7793861a657a66337131e6e97142ce7aa33b42ed039f2b8ad548606b4d3555c3d3f729b9f74d872fbff4653e1b36f18659e6113ae61102ab45e8a383f5423ee1148af6fb71b7a1d66671b8df3c87ea79aeec0c53875db62d6d7bef389aad878a38fb11381b861f96323623473223a56124df0b120ff4c9b0d16af24a683a1658310b9880bb77f7c8c3b8ebf92f1cc5663a8c93e11f751e52bf87cbfbf8e2368b4a47e4c5dc035d908a499b5ed0cf8bdaef36f041382679a710674bd93cbb6f25ec90cc6d7da13eab94ce23c7cc95202940b1f3d74fd27db08c2c962cba0dcc45c67f740ddcb7d5a5afb709773e11323987de67bf55cb6434b6877d444b3ab8a430f608eae60627c29c254708860cf03449007ea9f4fd9f23a108da0f4d4258826989047a04a1dc2087ef1ff4640fe54306c70eb0b5d39cb7d9a51e102b6a92020415b70ff0d37d69921a0047e00c0c7b81b1834655712c4fdad20a720b5b9c1221b80180f0a26ea92f4575126ec88061779ffb110e824474589c843a004073e8c84edf18f8082f40b83d93027aa15e</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-2-28</title>
+    <url>/dayroom/2025/02/28/2025%20weekly/2025-2-28/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="34a00fab95e037839e90ba90e8de26adc6292d4df21ee43e1b97023911afd9e3">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f75fb948aafc69848e8d79a2584d8ec740e75f934c8b82cfb7daaee9cb95c99c4ba8b98e8b6777c9b43e09c269c42cb597489550004a57102bbde4c1084028d8ef84cd9a47a58d305333f16ee1e44b7033a7ec506653fc612d4a01c9359cb4d72a41c246bbfd0d02b81936fc9127a3ab53926c4ab3d532af9968fb056a66262d2f1deeb5781de027d93f2fc46ad5265b61d7d482f6b3babc0f31e47b5424195a2fde0bf501c7652a6b307533bd192dc1cbacb5e9432b0cbb2345f091417ee886ac1b96c5f1f203c5e095bf400ae9e342d6aa7bd73b248c47cd9f6038030da7327a50809f28731d89348ae1561f7c189441cf8bf5a8d0293fe397cbf75e5502faa8309103a418543aaf3c902271e6e110fd925876b08df0c6a5c1cef75517a47cd04720fcbd311e46d00e2f14c60eaeb8837579706bc4e938f333cd490bd49819b0ee9969d6b4545b8e161f516807e793657df815a9e7e662c94802faae6e8d5419cc5561e374cbd4f99f98a229160fde539176740d136ecbb893c88738c88e0f8882f521062dcd7f5a736fc2a433c100f2b163e2f39582a43c1e35a4bbf2b9c008e90e4b050d07d465eebc0dae9d1737e16ecfaf8ecfac87a4606e5b8ce50dd063bc214f8b1bbbfaecb2bd2cbeb3966dc85ca15efa437ec0afc5082112187f414ac581e6b3992d041458a379120e63f606f83b3f754e79ae96a3ee2accca54dd41d2fc2281e5155db27cd71f0fd2f3a3a2c4a1666457b79f7e4b3d81f18d1eb34465de8901bfe4004bb6db359ebbfbaecfaf3f77a31f8b01c2af709b39ee5f5ea7acc92d868157d35a5cf77ce9ad184a7b57ee2e8650d647270740dc7aacdc6903302a5d3ceefae9fe32380ed863d3f4f0</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-14</title>
+    <url>/dayroom/2025/03/14/2025%20weekly/2025-3-14/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="1d2d448d7b2ad952e2286e52d2f9759ae913c4b4a2f02b5c2c2bc58617ec3a55">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f79c41c53353e1f3b16131f68c72347751e2fb0bcbcc95ad70588caa3fb043fdc79c689cc0b28356c980bc0fb13bb98ddd012ee224dbc2f577c2ad00ed9fbd24c34ba734ab1f5048168d0ab25f90b2fa19f32395902f144648c3e827e9bd8a3e93383c5b3a27b9551f68b773186e6fab1e4cda4a54befe80507d47f8ac82afc127b5a44c6f3ae34a8818d1c8f5ee4811fb089c4fe337caeeb6b7261c3e48a4019d7da7f5e28b03d3fcb41486afff15d5b4d0715b062d06bf29c5a9993fd68558daa46003341eaffd472d9d28fb02eeb06abe1761a96099441a8e9b5ad7c0071ad6ee5a755579c2aa5c34a5988f78e1e2896446dac294a4254d0f05d42f13a797bfe37ebaad7d893d16be7f92491bff764b07ee7fa474e5bea9abfab53500b3ce24daee43fb0fd8b41ec80742ee6288d603a1b8da03466f39e86416ce7ad73089995d6a0450e0de160caeb17d91de4682dca1edf20e1a568af69a37c852a3bfe271acc51233c6bbd951f92d61a7d7e4e5b0f8454608a2829d3cb4f9946df48f3759</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-21</title>
+    <url>/dayroom/2025/03/21/2025%20weekly/2025-3-21/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-3-28/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="55360edb1af4aa205b4b60ef9a661853cfedbed225dc67431413041ae274dd51">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb11d0481cdd894800c8cb027a36c9ac5f7ff0e06a787f23985e94e0663ed7c69d7cdf302011ce93bf29bc699fec553164c03f6c5cb50597eb5d3be6a0b820833e996a62667cfb0e4bdcef2628de090ae6e5490cdf3387fe969016191ebed424bc3c1170d1c6bd0625613f811bf09d9857cc49ea652a4da7b85481f96c4e0c5d29e7a83687faeb1131d954e7ae7cddecd52507182960e9f5a7abd393caa4f709d9c</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-3-7/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="2b6e7181fe80df28608cc511233ed1f796d05f08d2aa76a31cf00daabe9ce0c9">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb120d73fc91bf5feb16a1bb0817dfde1b7b2ed10eaa8f7560b2363167426854497556e9af7f997f9c1bca91705b2e2457abec38dfe46b98e4d976fb334522b63ac972d3954644246788fb0ffa371f782dc99720e05d0f9b825907f7063ae8083631066e0dd00551d7e507bf6d814e2649f4e17aa09e11f54fdeb742698c520124fa0200ab29cded9f23ec8a65a8591c16a78e306978cd5446d6f2844ff6b331a39c9491889ead4142cb7d5f449e4059ded4a6f9fa0f149f56c3ae0b368db4a453d75e6b13c702d2750fb391f456069c216ae2adcafdfd02798877eb40aff61adcce095f70924a9ca5378f19c82b59c62c4b9c32e7f3b8745901fed33d8557f6684365b02806028bfb658193114bb80970782001dbd2d7d2dfde70c2573bc2e11e09dfc766eaebbd47182607a10d11c7fe1ec1719800c9e04c223ffcc7b2b66f6f0c278b5b066ef238abc807cbc38f55986993325a36ee49d277da784b2efda6f22b01ad7620b92bb0cb75aa95bb564fe70b8a4cf8395ad536b3c2699e95fb862c3919f3a9876f16536e92f290962339e7479af7f21bf7209e2bb2c554702250eea06d4953ba1d7ae6a81c56bc19a7515c98a3112ff7309f51af18bea6e3b81182a377c129c1e22c3e34a7e9b1311b4762134ce8d8de367c90051ad8206ba7bbabc3bc7e1f200424a163499feb3a206968d4760753add1ce9841f04cdaa6277d6f4</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-4-11/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-4-25/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-4-30/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-4-18/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-4-4/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>weekly 2025-3-07</title>
+    <url>/dayroom/2025/03/07/2025%20weekly/2025-5-9/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="0644724fc1511e73019291f2f02a8b827143ac28e06e8e3530567398a32087f6">84a6b3d51dce4cb18bbd9a465a1d5c1149af2d9714683d89ffb9137c3e0f182495a72519946984a2e1575c9d248d14aa88cf290dfb15bf1d281a7571ae8cfb52e96820ec8ff11a686356874bda4a94126e5c036737975146a147e6be150982ecd15a7b2b150e7b306e043859caee5cd3d522087307a7fbad8bb29ccd7c0cfbf8bd062bed906731582c7b3a5a78b7afb115b6de5af5213813fadd634e20c7a0b3b8fe32a16361991efe885a7a85c0f6407db9afcaa96cca48a81e37ff5efaad7cbbd5c43b155472d767e0a214ffc3196345562717f22beed75b568422d123f8f9ec427d22ee5079a153e9f18d13eeef5f738fb7b4bbe1474a92ca41c3ad6e5e0b36eb438975d37cd58717f5814cae19a877d378bc67f0c8d3f4b633d6224d12810183d8e74d56afe426995a93068a6de5</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 weekly</category>
+      </categories>
+      <tags>
+        <tag>weekly</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>常见问题</title>
+    <url>/dayroom/2024/12/13/code/issues/</url>
+    <content><![CDATA[<h2 id="1、解决ReferenceError-primordials-is-not-defined问题"><a href="#1、解决ReferenceError-primordials-is-not-defined问题" class="headerlink" title="1、解决ReferenceError: primordials is not defined问题"></a>1、解决ReferenceError: primordials is not defined问题</h2><p><a href="https://blog.csdn.net/qiqi_zhangzz/article/details/106599233">https://blog.csdn.net/qiqi_zhangzz/article/details/106599233</a></p>
+<figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="number">1</span>️⃣新建npm-shrinkwrap.json文件</span><br><span class="line">添加：</span><br><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;dependencies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;graceful-fs&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">      <span class="attr">&quot;version&quot;</span><span class="punctuation">:</span> <span class="string">&quot;4.2.3&quot;</span></span><br><span class="line">    <span class="punctuation">&#125;</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br><span class="line"><span class="number">2</span>️⃣删除node_modules文件夹 </span><br><span class="line"><span class="number">3</span>️⃣npm i</span><br></pre></td></tr></table></figure>
+
+<h2 id="2、vue生产环境打包产物静态资源路径问题-BASE-URL"><a href="#2、vue生产环境打包产物静态资源路径问题-BASE-URL" class="headerlink" title="2、vue生产环境打包产物静态资源路径问题 BASE_URL"></a>2、vue生产环境打包产物静态资源路径问题 BASE_URL</h2><figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;&lt;%= BASE_URL %&gt;pdfjs/pdf.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="language-javascript"></span></span><br><span class="line"><span class="language-javascript">  pdfjsLib.<span class="property">GlobalWorkerOptions</span>.<span class="property">workerSrc</span> = <span class="string">&#x27;&lt;%= BASE_URL %&gt;pdfjs/pdf.worker.js&#x27;</span>;</span></span><br><span class="line"><span class="language-javascript"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="3、TypeError-Cannot-read-property-‘ob‘-of-undefined"><a href="#3、TypeError-Cannot-read-property-‘ob‘-of-undefined" class="headerlink" title="3、TypeError: Cannot read property ‘ob‘ of undefined"></a>3、TypeError: Cannot read property ‘<strong>ob</strong>‘ of undefined</h2><p> 因为在某个组件componentA中引入的另一个组件componentB中保留无效或者与组件componentA重叠的 data(){}，组件   ComponentB 根据条件加载或销毁，即带有 v-if，当 ComponentB 销毁时会出现上述问题，去掉ComponentB 中data() {}的内容 或者写正确，问题就能解决。</p>
+<figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="title function_">data</span>(<span class="params"></span>) &#123;&#125; </span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="4、node-sass"><a href="#4、node-sass" class="headerlink" title="4、node-sass "></a>4、node-sass </h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm i -g mirror-config-china --registry=https://registry.npmmirror.com</span><br><span class="line"># 查看npm配置</span><br><span class="line">npm config list</span><br><span class="line"># 查看环境变量</span><br><span class="line">source ~/.bashrc &amp;&amp; env</span><br><span class="line"></span><br><span class="line">npm install node-sass@npm:dart-sass -D</span><br><span class="line">yarn add node-sass@yarn:dart-sass -D</span><br></pre></td></tr></table></figure>
+
+<h2 id="5、"><a href="#5、" class="headerlink" title="5、"></a>5、</h2>]]></content>
+      <categories>
+        <category>code</category>
+      </categories>
+      <tags>
+        <tag>code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/dayroom/2025/03/10/code/resume/</url>
+    <content><![CDATA[<p>1、gis、大屏<br>2、vue2、vue3、uni-app、react、wx小程序(支付)<br>3、</p>
+<p>1.精通vue，react等SPA框架，有实际开发经验。<br>2.wx小程序，要求实际开发经验。<br>3.electron，tauri要求实际开发经验。<br>4.uni-app，要求实际开发经验。<br>5.ui框架诸如：element，echarts，antdesign，vant，vux等。<br>6.webpack，vite，Gulp，Grunt，等打包工具。<br>7.性能优化。<br>8.网络通信包括不限于axios，webSociket<br>9.三大马车（css，js&#x2F;ts，html）更是基础中的基础<br>10.微前端：single-spa，qiankun，无界<br>11.有些还需要英语….<br>12.node.js服务端知识，express.js，NestJS，等等<br>12.了解sql数据库，docker，部署等等。<br>13.3d方向：three.js，webGl,Cocos等。<br>14.各种算法，数据结构，http协议等等。</p>
+]]></content>
+      <categories>
+        <category>code</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>learning 2025-2-6</title>
+    <url>/dayroom/2025/02/06/language/hebrew/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="b0ec4f9c3fc2e55508db15b78517e43df184e7f507cd1baf14c8ce39ede4c4a7">84a6b3d51dce4cb18bbd9a465a1d5c1104f16a7db280c6e661acbdba7e48e9de8d12a478bdbb6520eac559b80e5d8a9c8a1ba85ccfa55945d7aacf19182c1adab0d707d46cfec8d7af77ab18cd9bef641176663b76716b7083eba9527f3e9a6e5c911fef8cb462a3f04a6c4cefc31250cbfa69f38e03f1a59a82f73cd4e7d779af6124f5f399a20fe143af09dd780c15a200faf6d26fccce1831844fa8bb40f934d62e890cdc76456a4fe5dc771273be95d10aa8eb794518992b3097ccc463446c8d7073c10616bbf86a2462b4743031b9ad2295c3e8641b1c7bbfbb23535cb933f65d84ef0e40bb123122f6ff66f08917b0e95a1166a0a1912838b590119b5f03d9d096263f1b7de7aa763d1698bc4375b8de6bcf74d68492e4eda6e82a80235e3af90440d2936fd565a707c396c47ce75782d67009c80bfb911a89766f6f75ee6e288cb468c9b323c06ddbf2873268d7aeeef9d63dafc3c1360481c7f3b05a218203877ecf3e99706b97690b638e93b3a8497123cb8bafbd3caaf6f941855cda83cd8fb115bf7d03d797ae742e1bce3b1493aa86b9b5e9a7330723dabc82744b51d526e5882900df9437311a196ee64915d63469b2656f9ff0f47ea08a991c733c071603c4091046ba48b0a2040f515f4b59581061109f97e6c81af17a15b06e363859b7d051e20f7d8f1b1d17490df4110c3c6230ef6dbb33398d4672fdcdb19b8fd323dce43458e2b7ef8cd8eec076cd31124a30fc00c331a98b4aac2e8dc718b20c046b83843fe40e346ed35199051aaa96ab7314fcbe24804384e71b6aa560328c0e72e060f2c04513702554db431b16ef9460eff2d85d1dfa49c8c589bac18817ee76fdd13d1550662e7cfe42506c33b2200ad62f96b5350976d7b18ce9462fe46a75140e32f345bd6f82e4d8d8d8a3a5897a75a9f065223c8d0420865ac994dc33f6a4b5520e5ad902b57eb1f01e8df96d3121592c115e52d67beb4916ca0aa05eddcd7e319268187375cf238175441104616930bec981e806ba2f2211d5e6cfbde6de00ae8f9958a4f5962e1c84748c55682cb6ef071bebbbf9fe830f7fcf0cc81b8783d03d20faa00ce2e87a26c4c2d6b3b64600a367713190a3541d35972b4420837585329399489b731ad2903d2fde0dff894ec6214fc61edd20f8038106b671c5254815204e0b02f20a20b59fec529ebb88355321a9dcddd6c8587fdfbf3399e9faa118f8d1d00287c86fa4e9cf6f4da9d21f9be66aa0d09117e0f29da05dc36c85e4a705774914555b25a9ecc50d83156449a1adf4fd646a9f5b9f611be6b33078d368a4abb4ab9f4d214bc357069d5bc5d56baf204c9a715538ae015616279d36d283d8d769de6b4c2bae5f7294875225db52e2f88b80354f83d815a8182dd60490b341a07a5a5488069913b8d0ded1fc50beca5327ce38aef1fc68020ccdc27713c40d914a7bbd42abff5ae20cf3b7a08e01ef54a7d55eb20d02d41adbf916d888851db114c1c19c85778de7f09e4066285f0ffb26ef9a89826a1950304396c860ed32ff50f49aa97faff06ac2c6dda644674a7b2e9b7273cde39dd10d9ac0e271638df68326703721be95957c5487314ac2297f9e6ea96f9c7bf420d834a0e80bc3577d71cc9f509ec346a5227ab3f98c15fb88ea38a8908a9f06ed2db77f776c947380985231c98b2d4c71f2570b539abf88eb0e3fc85bbc76a1e730e2b950d08846de7c3668bcfa7c2e035aa7f9316ee10891576ffa781540331aeb66e8e1ef0e421732bd7af24a7ce27c95e71bd9881aafaad259632d5332e8bb5648b894bbbb07799e78e5ddde9eb489d9103709e24f8aa5a234700aac58d273b506aa4d620732921fa928b3a284af42added7ddbaae6e79fe2a888fdfeb88f5a9d25a2ffe453f74bc8cde1b15a71964837f02a305dc1c7e6d1ad8736f00db6664ce9070ee0b7111108189d24f4ff671b75726a5c859569a0125d749eb6dbf9e6fc699a5e92c4a6062ed01fc9964c5921980f0835e40acbaaa0e8e45fd27bb4fe3fbc85076411eeae5fcc5caff96df5668c848a7f2a3f7a20b5165ab2cac54a590b4718926648d5d7d3698b129c4d0dc7d51cd121abdfc95ed3772252d07ff810ea4f1c49189e5224b4c5a3f6aed51f6b01f050f73230858b6a5d0099a5501b6bce0939b2521722d3bcd8540ecd6447a525d6e39a85aefe863cfa357cbe519b5bdb61bdbdc7aa9e3e64dea0e01f46cdd55493c1a38524056d5b97a623c01f8c388243d58436e93bcddda94803cea718fdd3261ee176b4c9536b029baf1c3036a1015a3a85e6e49b695734dffc2f08994b60e579837d4b79efc06933c921ed31c436cac39c26a38619023b6819d22553b6b741c0adf328ff051aa6da0d83ea8bf04571535987f358edb8d46b2848ad674cbd61d2db49770bdface27cdba1bb356181f43ed666d9d45e4436e5589907f0ed71ad8e8ffeea73692e2a565590434ee85299eb37a61c3635778470ee71b090835bc61b7aec12c5c6675beacc164e445ea5ec5e740a0e160da5ad68c17b54263197597285ef075de7621f3f7e0a88a2ceb5f47989da310c4157b41a8328b13b008c3f89d580cf3833e90a91de044b171f346e533863ea1aa443f8fb75c2140b5122b10e33d176ef8bd7b6c6b7770e4224da8e4f5b9f1d539808ae945c5c9977f305fbe28bf216b92c998cf49e9404088550f5791398536667dbc62e9eba8aab0adf08535f11898ba9b43a57cbfc170fa49c0da7165b70180ff65eacbc1233465227b453ed726ef51bd70733e07b97927ebf5932fed7adec8576f92c1d50f539d8f34fdfcdfb223887c62271c2ebddf14f3ab62bfef025371648cf9da582a3d4ec3a79d6db55b9ea06221b94847153653f50003edf65d13a92cb3839962fbc1cef138daba228580d4158aaa445b43fd5e63d55e551abe5069ce951cfb6507a1128f40f63b70da1fc6c4a1a02716e3d8bd1fe0bb710525210732698b618a0befd6abc45644c13fc269236c07f45272089a88f0fa33651a9bc6257428677ece9432584d89a940937be098dc879a05438a6cfb5fd714d1c3eece4a038790fbac0074ce8813d0a796e13ddb388d371774890509b8720de6dc42218ec5b575bf7048e1f67760d31e7a6ee72cb354d2c724f0e27d6bb5ddc797be7796533a48</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/dayroom/lib/hbe.js"></script><link href="/dayroom/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>2025 language</category>
       </categories>
       <tags>
         <tag>weekly</tag>
