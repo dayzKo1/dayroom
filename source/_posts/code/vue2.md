@@ -87,3 +87,28 @@ export default {
 ```
 
 ```
+
+# 5、v-pre跳过编译
+
+```
+<div v-pre>
+  <!-- 这个注释会被保留 -->
+  <p>这里的内容不会被编译</p>
+</div>
+```
+
+# 6、v-solt 子向父传值
+
+```
+子组件传递数据
+<slot :text="greetingMessage" :count="1"></slot>
+
+父组件接收数据
+<MyComponent v-slot="slotProps">
+  {{ slotProps.text }} {{ slotProps.count }}
+</MyComponent>
+```
+
+# 7、
+
+
