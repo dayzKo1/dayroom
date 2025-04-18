@@ -109,6 +109,34 @@ export default {
 </MyComponent>
 ```
 
-# 7、
+# 7、过滤器filters
+
+```
+// 组件内局部过滤器
+export default {
+  filters: {
+    capitalize(value) {
+      if (!value) return ''
+      return value.charAt(0).toUpperCase() + value.slice(1)
+    }
+  }
+}
+
+// 全局过滤器
+Vue.filter('capitalize', function(value) {
+  if (!value) return ''
+  return value.charAt(0).toUpperCase() + value.slice(1)
+})
+
+
+{{ message | formatDate('YYYY-MM-DD') }}
+
+filters: {
+  formatDate(value, format) {
+    return moment(value).format(format)
+  }
+}
+
+```
 
 
